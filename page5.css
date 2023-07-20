@@ -1,0 +1,39 @@
+body {
+    background-color: #141C24;
+}
+ .parent-svg-text  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:  180px;
+ }
+ .parent-email {
+    padding-left: 47px;
+    
+ }
+ .svg {
+    align-items: center;
+    display: flex;
+ }
+ .email {
+    color: white;
+    font-family: Aire Exterior;
+font-size: 39px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ }
+ h6 {
+    color: #ababab;
+    font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 180%
+ }
+ .for-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }

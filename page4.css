@@ -1,0 +1,18 @@
+body{
+    background-color: #141C24;
+}
+.kontackty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kontact{
+    padding-left: 50px;
+}
+.socsecty{
+display: flex;
+justify-content: center;
+align-items: center;
+padding-left: 50px;
+column-gap: 10px;
+}
